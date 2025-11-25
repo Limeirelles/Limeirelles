@@ -1,7 +1,7 @@
-## 👋 Olá, eu sou o Olimpio Meirelles
+# 👋 Olá, eu sou o Olimpio Meirelles
 
-🎬 Profissional com **17 anos de experiência no mercado audiovisual**, atuando em **pós-produção, marketing e atendimento publicitário**.  
-📊 Em **transição de carreira para Tecnologia da Informação**, com foco em **Análise de Dados, Programação e Business Intelligence**.
+🎬 Profissional com **17 anos de experiência no mercado audiovisual**  
+📊 Em **transição para TI**, com foco em **Análise de Dados, Programação e Business Intelligence**
 
 ---
 
@@ -10,14 +10,25 @@ Unir minha experiência em **gestão, liderança e produção audiovisual** com 
 
 ---
 
-## 🛠️ Skills & Ferramentas
-- **Python** (Análise de Dados, Back-end)
-- **SQL Server** (Formação Básica)
-- **Power BI** (Business Intelligence)
-- **Excel Básico**
-- **IA Generativa** (Fundamentos)
-- **Marketing Digital & Inbound Marketing**
-- Ferramentas criativas: Photoshop, Canva, Premiere, CapCut
+## 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![IA Generativa](https://img.shields.io/badge/AI%20Generativa-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Olimpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limeirelles&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limeirelles&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Limeirelles&theme=radical)
 
 ---
 
@@ -30,11 +41,9 @@ Unir minha experiência em **gestão, liderança e produção audiovisual** com 
 ---
 
 ## 📂 Projetos em Destaque
-> *Adicione links para seus repositórios aqui, exemplo:*
-
 - 📊 [Análise de Dados com Python](https://github.com/Limeirelles/projeto-analise-dados)  
-- 📈 [API RESTful para gerenciamento e controle de compras domésticas](https://github.com/Limeirelles/home_shopping_api)  
-- 🤖 [Capturar e exibir mensagens de um canal específico do Slack](https://github.com/Limeirelles/slack_fetcher)
+- 📈 [Dashboard de Vendas com Power BI](https://github.com/Limeirelles/dashboard-vendas)  
+- 🤖 [Aplicação de IA Generativa](https://github.com/Limeirelles/chatbot-ia)
 
 ---
 
@@ -44,10 +53,15 @@ Unir minha experiência em **gestão, liderança e produção audiovisual** com 
 
 ---
 
-## 📫 Contato
-- 📧 Email: **onmmkt@yahoo.com.br**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/olimpiomeirelles)  
-- 🖥️ [GitHub](https://github.com/Limeirelles)
+## 📫 Contato & Redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olimpiomeirelles)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Limeirelles)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onmmkt@yahoo.com.br)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Limeirelles&color=blue&style=for-the-badge)
 
 ---
 
