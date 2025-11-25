@@ -22,13 +22,15 @@ Unir minha experiência em **gestão, liderança e produção audiovisual** com 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Gráficos
 
 ![Olimpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limeirelles&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limeirelles&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limeirelles&layout=pie&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Limeirelles&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Limeirelles&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Snake animation](https://github.com/Limeirelles/Limeirelles/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -42,8 +44,8 @@ Unir minha experiência em **gestão, liderança e produção audiovisual** com 
 
 ## 📂 Projetos em Destaque
 - 📊 [Análise de Dados com Python](https://github.com/Limeirelles/projeto-analise-dados)  
-- 📈 [Dashboard de Vendas com Power BI](https://github.com/Limeirelles/dashboard-vendas)  
-- 🤖 [Aplicação de IA Generativa](https://github.com/Limeirelles/chatbot-ia)
+- 📈 [API RESTful para gerenciamento e controle de compras domésticas](https://github.com/Limeirelles/home_shopping_api)  
+- 🤖 [Capturar e exibir mensagens de um canal específico do Slack](https://github.com/Limeirelles/slack_fetcher)
 
 ---
 
