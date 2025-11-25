@@ -14,7 +14,7 @@ Unir minha experiência em **gestão, liderança e produção audiovisual** com 
 - **Python** (Análise de Dados, Back-end)
 - **SQL Server** (Formação Básica)
 - **Power BI** (Business Intelligence)
-- **Excel Avançado**
+- **Excel Básico**
 - **IA Generativa** (Fundamentos)
 - **Marketing Digital & Inbound Marketing**
 - Ferramentas criativas: Photoshop, Canva, Premiere, CapCut
