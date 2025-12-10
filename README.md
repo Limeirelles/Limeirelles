@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Olimpio Meirelles
 
-🎬 Profissional com **17 anos de experiência no mercado audiovisual**  
+🎬 Profissional com **14 anos de experiência no mercado audiovisual**  
 📊 Em **transição para TI**, com foco em **Análise de Dados, Programação e Business Intelligence**
 
 ---
